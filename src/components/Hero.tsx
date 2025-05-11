@@ -9,7 +9,7 @@ const Hero: React.FC = () => {
     >
       <div className="absolute inset-0 w-full h-full">
         <img
-          src="./photos/header.jpg"
+          src="/public/picss/header.jpg"
           alt="Mother and child"
           className="w-full h-full object-cover object-center opacity-40"
         />
